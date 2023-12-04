@@ -7,7 +7,7 @@ import java.util.*;
 public class TopWords {
     public static void main(String[] args) {
         // Указываем путь к файлу
-        String filePath = "/Users/diana/Desktop/Учеба/ИТП/Лабы/Java_labs.pdf";
+        String filePath = "/Users/diana/Desktop/Учеба/ИТП/Лабы/1.txt";
 
         // Создаем объект File
         File file = new File(filePath);
@@ -17,7 +17,7 @@ public class TopWords {
         try {
             scanner = new Scanner(file);
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            e.printStackTrace(); // Выводим информацию об исключении
         }
 
         // Создаем объект Map для хранения слов и их количества
@@ -28,7 +28,7 @@ public class TopWords {
             // Считываем слово
             String word = scanner.next().toLowerCase();
 
-            // Убираем знаки препинания, чтобы "word" и "word." не считались разными словами
+            // Убираем знаки препинания
             word = word.replaceAll("[^a-zA-Zа-яА-Я]", "");
 
             // Помещаем слово в Map, увеличивая счетчик, если оно уже там есть
@@ -41,10 +41,10 @@ public class TopWords {
         // Создаем список из элементов Map
         List<Map.Entry<String, Integer>> entryList = new ArrayList<>(wordCountMap.entrySet());
 
-        // Сортируем список по убыванию количества повторений
         Collections.sort(entryList, new Comparator<Map.Entry<String, Integer>>() {
-            @Override
+            @Override // Переопределение метода compare из интерфейса Comparator
             public int compare(Map.Entry<String, Integer> o1, Map.Entry<String, Integer> o2) {
+                // Если o2.getValue() больше o1.getValue(), возвращается отрицательное число; если меньше - положительное; если равны - 0.
                 return o2.getValue().compareTo(o1.getValue());
             }
         });

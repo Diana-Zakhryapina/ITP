@@ -1,10 +1,6 @@
 package Lab6;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 
 // Класс для учета продаж в магазине
@@ -41,21 +37,21 @@ public class SalesManager {
 
     // Метод для поиска наиболее популярного товара
     public String findMostPopularItem() {
-        Map<String, Integer> itemFrequency = new HashMap<>();
+        Map<String, Integer> itemCounter = new HashMap<>();
 
-        // Подсчитываем частоту каждого товара
+        // Подсчитываем какой товар и в каком количестве продан
         for (SaleItem saleItem : salesList) {
             String itemName = saleItem.getName();
-            itemFrequency.put(itemName, itemFrequency.getOrDefault(itemName, 0) + 1);
+            itemCounter.put(itemName, itemCounter.getOrDefault(itemName, 0) + 1);
         }
 
-        // Находим товар с наибольшей частотой
-        String mostPopularItem = null;
-        int maxFrequency = 0;
-        for (Map.Entry<String, Integer> entry : itemFrequency.entrySet()) {
-            if (entry.getValue() > maxFrequency) {
+        // Находим товар с наибольшим числом продаж
+        String mostPopularItem = "";
+        int maximumNumberOfSales = 0;
+        for (Map.Entry<String, Integer> entry : itemCounter.entrySet()) {
+            if (entry.getValue() > maximumNumberOfSales) {
                 mostPopularItem = entry.getKey();
-                maxFrequency = entry.getValue();
+                maximumNumberOfSales = entry.getValue();
             }
         }
 
@@ -65,7 +61,6 @@ public class SalesManager {
     // Метод для демонстрации использования класса
     public static void main(String[] args) {
         SalesManager salesManager = new SalesManager();
-        Scanner scanner = new Scanner(System.in);
 
         // Пример использования
         salesManager.addSaleItem("Товар1", 50.0);
