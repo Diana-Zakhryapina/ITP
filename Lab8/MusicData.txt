@@ -1,0 +1,102 @@
+The Score,Atlas,Unstoppable,2017,Canada,Alternative Rock
+Imagine Dragons,Smoke + Mirrors,I Bet My Life,2014,United States,Pop Rock
+Black Veil Brides,Set the World on Fire,Fallen Angels,2011,United States,Hard Rock
+Evanescence,Fallen,Bring Me to Life,2003,United States,Gothic Rock
+Hans Zimmer,Inception,Time,2010,Germany,Soundtrack
+Three Days Grace,One-X,Animal I Have Become,2006,Canada,Alternative Metal
+Nickelback,All the Right Reasons,Far Away,2005,Canada,Post-Grunge
+Skillet,Comatose,Hero,2006,United States,Christian Rock
+STARSET,Vessels,Monster,2017,United States,Electronic Rock
+LINKIN PARK,Meteora,Numb,2003,United States,Alternative Metal
+Smash into Pieces,The Apocalypse DJ,Higher,2015,Sweden,Alternative Rock
+STARSET,Transmissions,Carnivore,2014,United States,Electronic Rock
+Hans Zimmer,Pirates of the Caribbean: The Curse of the Black Pearl,He's a Pirate,2003,Germany,Soundtrack
+Imagine Dragons,Evolve,Believer,2017,United States,Pop Rock
+Evanescence,The Open Door,Call Me When You're Sober,2006,United States,Gothic Rock
+Three Days Grace,Life Starts Now,Break,2009,Canada,Alternative Rock
+Nickelback,Dark Horse,Gotta Be Somebody,2008,Canada,Post-Grunge
+The Score,Carry On,Unstoppable,2016,United States,Alternative Rock
+Skillet,Rise,Not Gonna Die,2013,United States,Christian Rock
+Smash into Pieces,Rise and Shine,Higher,2017,Sweden,Alternative Rock
+LINKIN PARK,Hybrid Theory,In the End,2000,United States,Alternative Metal
+Black Veil Brides,Wretched and Divine: The Story of the Wild Ones,In the End,2013,United States,Gothic Metal
+Evanescence,The Bitter Truth,Use My Voice,2021,United States,Gothic Rock
+Imagine Dragons,Night Visions,Radioactive,2012,United States,Indie Rock
+The Score,Pressure,Legend,2020,United States,Alternative Rock
+Three Days Grace,Human,Riot,2015,Canada,Alternative Rock
+Skillet,Victorious,Legendary,2019,United States,Christian Rock
+Nickelback,No Fixed Address,What Are You Waiting For?,2014,Canada,Post-Grunge
+STARSET,Divisions,Manifest,2019,United States,Electronic Rock
+Hans Zimmer,The Dark Knight,Why So Serious?,2008,Germany,Soundtrack
+Smash into Pieces,Evolver,Rise and Shine,2018,Sweden,Alternative Rock
+Evanescence,The B-Sides,Zero,2021,United States,Gothic Rock
+Three Days Grace,Outsider,The Mountain,2018,Canada,Alternative Rock
+LINKIN PARK,Minutes to Midnight,What I've Done,2007,United States,Alternative Rock
+Imagine Dragons,Origins,Natural,2018,United States,Pop Rock
+STARSET,Transmissions,My Demons,2014,United States,Electronic Rock
+Black Veil Brides,Black Veil Brides,Heart of Fire,2014,United States,Gothic Metal
+The Score,Carry On,The Heat,2016,United States,Alternative Rock
+Skillet,Unleashed,Feel Invincible,2016,United States,Christian Rock
+Nickelback,Feed the Machine,Song on Fire,2017,Canada,Post-Grunge
+Smash into Pieces,A New Horizon,Boomerang,2015,Sweden,Alternative Rock
+Hans Zimmer,Interstellar,No Time for Caution,2014,Germany,Soundtrack
+Three Days Grace,One-X,Never Too Late,2006,Canada,Alternative Rock
+Evanescence,Synthesis,Bring Me to Life (Synthesis),2017,United States,Gothic Rock
+Imagine Dragons,Smoke + Mirrors,Shots,2014,United States,Pop Rock
+Black Veil Brides,Vale,The Last One,2018,United States,Gothic Metal
+STARSET,Divisions,Where the Skies End,2019,United States,Electronic Rock
+LINKIN PARK,A Thousand Suns,Waiting for the End,2010,United States,Alternative Metal
+Skillet,Awake,Monster,2009,United States,Christian Rock
+Nickelback,All the Right Reasons,Savin' Me,2005,Canada,Post-Grunge
+The Score,Atlas,Dreamin,2017,Canada,Alternative Rock
+Evanescence,Fallen,My Immortal,2003,United States,Gothic Rock
+Hans Zimmer,The Lion King,Circle of Life,1994,Germany,Soundtrack
+Imagine Dragons,Evolve,Thunder,2017,United States,Pop Rock
+Skillet,Comatose,The Last Night,2006,United States,Christian Rock
+STARSET,Vessels,Satellite,2017,United States,Electronic Rock
+Three Days Grace,Transit of Venus,Chalk Outline,2012,Canada,Alternative Rock
+LINKIN PARK,Meteora,Somewhere I Belong,2003,United States,Alternative Metal
+Black Veil Brides,Set the World on Fire,Rebel Love Song,2011,United States,Gothic Metal
+Smash into Pieces,Rise and Shine,Boomerang,2017,Sweden,Alternative Rock
+Nickelback,Dark Horse,Photograph,2008,Canada,Post-Grunge
+The Score,Carry On,The Legend Begins,2016,United States,Alternative Rock
+Hans Zimmer,Dunkirk,Supermarine,2017,Germany,Soundtrack
+Evanescence,The Open Door,Lithium,2006,United States,Gothic Rock
+Imagine Dragons,Smoke + Mirrors,Gold,2014,United States,Pop Rock
+Three Days Grace,Life Starts Now,World So Cold,2009,Canada,Alternative Rock
+Skillet,Rise,My Demons,2013,United States,Christian Rock
+STARSET,Vessels,Ricochet,2017,United States,Electronic Rock
+LINKIN PARK,Hybrid Theory,Crawling,2000,United States,Alternative Metal
+Nickelback,No Fixed Address,Edge of a Revolution,2014,Canada,Post-Grunge
+The Score,Pressure,Higher,2016,United States,Alternative Rock
+Skillet,Unleashed,Back From the Dead,2016,United States,Christian Rock
+Smash into Pieces,A New Horizon,Stronger,2015,Sweden,Alternative Rock
+LINKIN PARK,Meteora,Somewhere I Belong,2003,United States,Alternative Metal
+Black Veil Brides,Set the World on Fire,The Legacy,2011,United States,Gothic Metal
+Evanescence,The Bitter Truth,Wasted On You,2021,United States,Gothic Rock
+Imagine Dragons,Night Visions,Demons,2012,United States,Indie Rock
+The Score,The Legend Begins,Unstoppable,2016,United States,Alternative Rock
+Three Days Grace,Human,I Am Machine,2015,Canada,Alternative Rock
+Skillet,Victorious,Burn It Down,2019,United States,Christian Rock
+Nickelback,No Fixed Address,Satellite,2014,Canada,Post-Grunge
+STARSET,Divisions,Where the Skies End,2019,United States,Electronic Rock
+Hans Zimmer,The Dark Knight,Like a Dog Chasing Cars,2008,Germany,Soundtrack
+Smash into Pieces,Evolver,One By One,2018,Sweden,Alternative Rock
+Evanescence,The B-Sides,The Chain,2021,United States,Gothic Rock
+Three Days Grace,Outsider,Infra-Red,2018,Canada,Alternative Rock
+LINKIN PARK,Minutes to Midnight,Shadow of the Day,2007,United States,Alternative Rock
+Imagine Dragons,Origins,Machine,2018,United States,Pop Rock
+STARSET,Transmissions,Carnivore,2014,United States,Electronic Rock
+Black Veil Brides,Black Veil Brides,In the End,2014,United States,Gothic Metal
+The Score,Carry On,Human,2016,United States,Alternative Rock
+Skillet,Unleashed,Famous,2016,United States,Christian Rock
+Nickelback,Feed the Machine,Must Be Nice,2017,Canada,Post-Grunge
+Smash into Pieces,A New Horizon,My Cocaine,2015,Sweden,Alternative Rock
+Hans Zimmer,Interstellar,Mountains,2014,Germany,Soundtrack
+Three Days Grace,One-X,It's All Over,2006,Canada,Alternative Rock
+Evanescence,Synthesis,Imperfection,2017,United States,Gothic Rock
+Imagine Dragons,Smoke + Mirrors,I'm So Sorry,2014,United States,Pop Rock
+Black Veil Brides,Vale,Dead Man Walking (Overture II),2018,United States,Gothic Metal
+STARSET,Divisions,Solstice,2019,United States,Electronic Rock
+LINKIN PARK,A Thousand Suns,The Catalyst,2010,United States,Alternative Metal
+Skillet,Awake,Hero,2009,United States,Christian Rock
